@@ -1,17 +1,17 @@
 {
   "manifestVersion": 1,
-  "id": "YOUR_SNIPPET_ID",
-  "name": "YOUR_SNIPPET_NAME",
-  "author": "YOUR_NAME",
-  "repoUrl": "",
+  "id": "sage-valley-theme",
+  "name": "Sage Valley",
+  "author": "Kira",
+  "repoUrl": "https://github.com/kiraleyannlinggoodman-hash/Sage-Valley",
   "version": {
-    "major": 0,
-    "minor": 0,
-    "patch": 1
+    "major": 1,
+    "minor": 3,
+    "patch": 4
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "YOUR_SNIPPET_DESCRIPTION",
+  "description": "A soft sage green RemNote theme using #CDE6CA, designed for a calm, gentle and comfortable study environment.",
   "requestNative": false,
   "requiredScopes": [
     {
