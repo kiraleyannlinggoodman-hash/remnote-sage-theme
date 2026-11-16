@@ -1,1 +1,48 @@
-/* Add your custom styles here. See the docs for help: https://plugins.remnote.com/custom-css */
+/* SAGE VALLEY — NEUTRAL SAGE */
+
+:root {
+  --sage-main: #DCE3DA;
+  --sage-paper: #DCE3DA;
+  --sage-sidebar: #EDF1EB;
+  --sage-light: #F3F5F1;
+  --sage-accent: #C9D5CA;
+  --sage-dark: #454D48;
+}
+
+/* Main backgrounds */
+.rn-clr-background {
+  background-color: var(--sage-paper) !important;
+}
+
+.rn-clr-background-primary {
+  background-color: var(--sage-paper) !important;
+}
+
+/* Sidebar */
+.rn-clr-background-secondary {
+  background-color: var(--sage-sidebar) !important;
+}
+
+/* Accent backgrounds */
+.rn-clr-background-accent {
+  background-color: var(--sage-accent) !important;
+}
+
+.rn-clr-background-light-accent {
+  background-color: var(--sage-light) !important;
+}
+
+/* Text */
+.rn-clr-content-primary {
+  color: #414943 !important;
+}
+
+.rn-clr-content-secondary {
+  color: var(--sage-dark) !important;
+}
+
+/* Borders */
+.rn-clr-border-accent {
+  border-color: var(--sage-accent) !important;
+}
+
